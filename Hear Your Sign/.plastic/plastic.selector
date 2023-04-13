@@ -1,0 +1,4 @@
+repository "Hear Your Sign@meu309@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
